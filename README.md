@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @palhana
 - 👀 I’m interested in producing a coding language concept
-- 🌱 I’m currently learning python, django, pytorch, neural network
+- 🌱 I’m currently learning python, nltk, django, pytorch, neural network
 - 💞️ I’m looking to collaborate on the topics above i'm learning
 - 📫 How to reach me palhana@gmail.com
 
